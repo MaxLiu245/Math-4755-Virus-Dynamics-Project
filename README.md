@@ -17,3 +17,13 @@ Since this is a course project for undergraduates, we simply investigated how a 
 \\end{aligned}
 \\right.
 \\end{equation}" />
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large \begin{equation}
+\left\\{
+\begin{aligned}
+\dot{S} &= dN - dS -\dfrac{\beta SI}{\phi(I)}\\
+\dot{I} &= \dfrac{\beta SI}{\phi(I)} - dI - r(I)I\\
+\dot{R} &= r(I)I -dR
+\end{aligned}
+\right.
+\end{equation}" style="border:none;">
