@@ -7,13 +7,13 @@
 ### What we've done
 Since this is a course project for undergraduates, we simply investigated how a general incidence rate and recovery rate works for an SIR model. By basic ideas and simple methods, we got some consitions for our modified model when its equilibriums are attracting. The model is showing below:
 
-<img src="http://latex.codecogs.com/gif.latex?\\
-\begin{equation}
-\left\{
-\begin{aligned}
-\dot{S} &= dN - dS -\dfrac{\beta SI}{\phi(I)}\\
-\dot{I} &= \dfrac{\beta SI}{\phi(I)} - dI - r(I)I\\
-\dot{R} &= r(I)I -dR
-\end{aligned}
-\right.
-\end{equation}" />
+<img src="http://latex.codecogs.com/gif.latex?
+\\begin{equation}
+\\left\\{
+\\begin{aligned}
+\\dot{S} &= dN - dS -\dfrac{\beta SI}{\phi(I)}
+\\dot{I} &= \dfrac{\beta SI}{\phi(I)} - dI - r(I)I
+\\dot{R} &= r(I)I -dR
+\\end{aligned}
+\\right.
+\\end{equation}" />
